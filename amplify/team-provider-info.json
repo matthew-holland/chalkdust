@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "chalkdust-prod-20191014182116-authRole",
+            "UnauthRoleArn": "arn:aws:iam::648724512952:role/chalkdust-prod-20191014182116-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::648724512952:role/chalkdust-prod-20191014182116-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "chalkdust-prod-20191014182116-deployment",
+            "UnauthRoleName": "chalkdust-prod-20191014182116-unauthRole",
+            "StackName": "chalkdust-prod-20191014182116",
+            "StackId": "arn:aws:cloudformation:us-east-1:648724512952:stack/chalkdust-prod-20191014182116/f0bff130-eed0-11e9-8e64-12eea7535b9e"
+        }
+    }
+}
