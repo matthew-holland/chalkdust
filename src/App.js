@@ -10,7 +10,8 @@ import config from "./aws-exports";
 API.configure(config); // Configure Amplify
 PubSub.configure(config);
 
-const initialState = { todos: [] };
+const initialState = { todos: ["hello"] };
+
 const reducer = (state, action) => {
   switch (action.type) {
     case "QUERY":
