@@ -9,6 +9,11 @@
             "UnauthRoleName": "chalkdust-prod-20191014182116-unauthRole",
             "StackName": "chalkdust-prod-20191014182116",
             "StackId": "arn:aws:cloudformation:us-east-1:648724512952:stack/chalkdust-prod-20191014182116/f0bff130-eed0-11e9-8e64-12eea7535b9e"
+        },
+        "categories": {
+            "auth": {
+                "chalkdustca4b5a5d": {}
+            }
         }
     }
 }
